@@ -1,5 +1,7 @@
 # Week 03 exercises
 
+Image on repo:  
+![comic of a dog and fire](./comic_dog-cat.jpg)
 
 
 This is a README file that can be used to describe and document your assignment.
