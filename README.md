@@ -1,18 +1,5 @@
 # Week 03 exercises
 
-CHANGE!!
-ANOTHER CHANGE
-
-
-Image on repo:  
-![comic of a dog and fire](./comic_dog-cat.jpg)
-
-Image from imgpile:
-![DRCybx.jpg](https://imgpile.com/images/DRCybx.jpg)
-
-Another image from imgpile:
-![DRDRSw.jpg](https://imgpile.com/images/DRDRSw.jpg)
-
 
 This is a README file that can be used to describe and document your assignment.
 
