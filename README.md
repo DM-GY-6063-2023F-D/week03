@@ -1,5 +1,7 @@
 # Week 03 exercises
 
+CHANGE!!
+
 Image on repo:  
 ![comic of a dog and fire](./comic_dog-cat.jpg)
 
